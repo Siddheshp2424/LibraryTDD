@@ -107,13 +107,13 @@ This project follows TDD principles to solve the kata problem. The solution is b
 2. Run the following command to clone the repository:
 
     ```bash
-    git clone https://github.com/MohammedRizwan4/LibTDD-Suite.git
+    git clone https://github.com/Siddheshp2424/LibraryTDD.git
     ```
 
 3. Navigate into the project directory:
 
     ```bash
-    cd LibTDD-Suite
+    cd LibraryTDD
     ```
 
 ### Import Project into IntelliJ IDEA
